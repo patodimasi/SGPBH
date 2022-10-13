@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "5e9c98a6e2ca7c173c692a7f"
+  },
+  "USR_CODIGO": 0,
+  "USR_NOMBRE": "Patricia",
+  "USR_APELLIDO": "Dimasi",
+  "USR_LOGON": "PDIMASI",
+  "USR_PASS": "123456",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "19/08/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "/uploadas/donald-resize.jpg",
+  "USR_LABEL": "donald.jpg"
+},{
+  "_id": {
+    "$oid": "5e9c9a03e2ca7c173c692a80"
+  },
+  "USR_CODIGO": 1,
+  "USR_NOMBRE": "Pablo",
+  "USR_APELLIDO": "Rios",
+  "USR_LOGON": "PRIOS",
+  "USR_PASS": "prios",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "/uploadas/CV-resize.jpg",
+  "USR_LABEL": "CV.jpg"
+},{
+  "_id": {
+    "$oid": "5e9ccf55e2ca7c173c692a81"
+  },
+  "USR_CODIGO": 2,
+  "USR_NOMBRE": "Yone",
+  "USR_APELLIDO": "Dimasi",
+  "USR_LOGON": "YDIMASI",
+  "USR_PASS": "ydimasi",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cd08ae2ca7c173c692a82"
+  },
+  "USR_CODIGO": 4,
+  "USR_NOMBRE": "Hector",
+  "USR_AOELLIDO": "Vitali",
+  "USR_LOGON": "HVITALI",
+  "USR_PASS": "hvitali",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": "",
+  "USR_APELLIDO": "Vitaly"
+},{
+  "_id": {
+    "$oid": "5e9cd1d0e2ca7c173c692a83"
+  },
+  "USR_CODIGO": 5,
+  "USR_NOMBRE": "Alejandro",
+  "USR_APELLIDO": "Gorkin",
+  "USR_LOGON": "AGORKIN",
+  "USR_PASS": "agorkin",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cd299e2ca7c173c692a85"
+  },
+  "USR_CODIGO": 6,
+  "USR_NOMBRE": "Marcos",
+  "USR_APELLIDO": "Di Fazio",
+  "USR_LOGON": "MDIFAZIO",
+  "USR_PASS": "mdifazio",
+  "USR_ESTADO": "BA",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cd371e2ca7c173c692a86"
+  },
+  "USR_CODIGO": 7,
+  "USR_NOMBRE": "Alejandra",
+  "USR_APELLIDO": "DiMasi",
+  "USR_LOGON": "ADIMASI",
+  "USR_PASS": "adimasi",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "18/11/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cd9bce2ca7c173c692a8d"
+  },
+  "USR_CODIGO": 14,
+  "USR_NOMBRE": "Yamila",
+  "USR_APELLIDO": "Savignano",
+  "USR_LOGON": "YSAVIGNANO",
+  "USR_PASS": "ysavignano",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "07/07/2015",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cda7ce2ca7c173c692a8e"
+  },
+  "USR_CODIGO": 15,
+  "USR_NOMBRE": "Franco",
+  "USR_APELLIDO": "Lucero",
+  "USR_LOGON": "FLUCERO",
+  "USR_PASS": "flucero",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "05/10/2015",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9cdb0fe2ca7c173c692a8f"
+  },
+  "USR_CODIGO": 16,
+  "USR_NOMBRE": "Facundo",
+  "USR_APELLIDO": "García",
+  "USR_LOGON": "FGARCIA",
+  "USR_PASS": "fgarcia",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "18/04/2018",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "5e9e4009e2ca7c173c692a99"
+  },
+  "USR_CODIGO": 3,
+  "USR_NOMBRE": "Adolfo",
+  "USR_APELLIDO": "Niz",
+  "USR_LOGON": "ANIZ",
+  "USR_PASS": "aniz",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "25/10/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "62d84752b98bd4b839633e9c"
+  },
+  "USR_CODIGO": 0,
+  "USR_NOMBRE": "Franco",
+  "USR_APELLIDO": "Lucero",
+  "USR_LOGON": "FLUCERO",
+  "USR_PASS": "FLUCERO",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "20/07/2022",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+},{
+  "_id": {
+    "$oid": "62d853d82c9b77073fdf3af0"
+  },
+  "USR_CODIGO": 0,
+  "USR_NOMBRE": "Adrian",
+  "USR_APELLIDO": "Gomez",
+  "USR_LOGON": "AGOMEZ",
+  "USR_PASS": "agomez",
+  "USR_ESTADO": "AC",
+  "USR_FECHA_ALTA": "19/08/2006",
+  "USR_FECHA_BAJA": "",
+  "USR_FOTO": "",
+  "USR_LABEL": ""
+}]
