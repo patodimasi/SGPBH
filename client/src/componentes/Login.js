@@ -1,18 +1,21 @@
 import React from 'react';
 import { useState} from "react"; 
 import axios from "axios";
+import '../css/signin.css';
+import {useNavigate} from "react-router-dom";
 
 function Login(){
 
   const [fName, setfName] = useState('');
   const [fPass, setfPass] = useState('');
 
+  const navigate = useNavigate();
 
   const submitValue = async(e) => {
 
       const frmdetails = {
-        'Usuario' : fName,
-        'Pass' : fPass,
+        'usuario' : fName,
+        'pass' : fPass,
        
      }
 
@@ -20,17 +23,10 @@ function Login(){
     console.log(frmdetails);
  
 
-   /* const response = await fetch("http://localhost:3001/api", {
-      method: "POST",
-      body: JSON.stringify({"user": frmdetails.Usuario,
-                            "pass": frmdetails.Pass}),
-      });
-   }
-    */
 
     axios
-      .post('http://localhost:3001/api', frmdetails)
-      .then(() => console.log('Creado'))
+      .post('http://localhost:3001/login', frmdetails)
+      .then(() => navigate("/consultas"))
       .catch(err => {
         console.error(err);
       });
@@ -59,7 +55,7 @@ function Login(){
                 />
               </div>
               <div className="d-grid gap-2 mt-3">
-                <button onClick={submitValue} type="submit" className="btn btn-primary">
+                <button onClick={submitValue} type="button" className="btn btn-primary">
                   Submit
                 </button>
               </div>

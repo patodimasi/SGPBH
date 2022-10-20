@@ -1,8 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 .center{
     display: block;
     margin: auto;
+    margin-bottom: 40px;
+    margin-top: 40px; 
 }
 
-.prueba{
-    margin-top:-10px;
+.navbar{
+    padding: 1rem 2rem;
+    background-color: #ffffff;
+    border-bottom: 1px solid #c4ccde;
+   
+}
+
+.sidebar {
+    width: 14rem;
+    height: calc(100vh - 52px);
+    border-right: 1px solid #c4ccde; 
+}
+
+.list {
+    list-style: none;
+    padding: 1rem 1rem;
+}
+
+.icon {
+    margin-bottom: 1 rem;
+}
+
+.enlace{
+    text-decoration:none;
 }
